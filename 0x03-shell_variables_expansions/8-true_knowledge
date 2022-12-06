@@ -1,2 +1,2 @@
 #!/bin/bad 
-echo $(($TRUEKNOWLEDGE+128))
+echo $(($TRUEKNOWLEDGE+128)) \n 
